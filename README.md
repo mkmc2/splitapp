@@ -1,1 +1,1 @@
-# SplitApp.io
+# splitapp
