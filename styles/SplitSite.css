@@ -66,5 +66,29 @@ i {
 #copyright {
     color: #111111;
 }
+/* Modal Section */
+.modal-footer a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+.modal-footer .btn-primary {
+    background-color: #6d1ed4;
+    border: 1px solid #6d1ed4;
+}
+.modal-footer .btn-primary:hover {
+    background-color: #5f1cb6;
+    border: 1px solid #5f1cb6;
+}
+/* about us page */
+#aboutUsText p {
+    color: #333333;
+    font-size: 1.10rem;
+}
+#aboutUsText {
+    padding: 20px;
+}
 
-
+/* Contact us CSS */
+#formContainer, #cardContainer {
+    padding: 50px 0px 50px 0px;
+}
