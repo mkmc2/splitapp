@@ -1,0 +1,101 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #f9f9f9;
+}
+#jumbotron {
+    background-color: #42f4a4;
+    width: 100%;
+    height: auto;
+}
+#jumbotron h1, p {
+    color: white;
+    padding-top: 15px;
+}
+#headerImage {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+#headerParagraph {
+    font-size: 1.1rem;
+    color: white;
+    font-weight: bold;
+}
+#mainContainer {
+    background-color: none;
+    padding: 100px 0px 60px 0px;
+}
+i {
+    color: #42f4a4;
+    font-size: 4rem;
+    padding: 10px;
+}
+#loginButton {
+    border: solid rgba(255,255,255,.5) 1px;
+    border-radius: 10px;
+}
+@media (max-width: 768px) {
+    #loginButton {
+        border: none;
+    }
+}
+@media (min-width: 767px) {
+    #loginButton:hover {
+        background-color:  rgba(255,255,255,1);
+        color: #343a40;
+    }
+}
+#findBg {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+#winBg {
+    background-color: #333333;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+#openBg {
+    background-color: #42f4a4;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+.lead {
+    color: #333333;
+}
+#footerNav {
+    background-color: #f2f2f2;
+    color: #333333;
+    padding: 15px 0px 15px 0px;
+}
+#footerContent {
+    color: #333333;
+}
+#copyright {
+    color: #111111;
+}
+/* Modal Section */
+.modal-footer a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+.modal-footer .btn-primary {
+    background-color: #6d1ed4;
+    border: 1px solid #6d1ed4;
+}
+.modal-footer .btn-primary:hover {
+    background-color: #5f1cb6;
+    border: 1px solid #5f1cb6;
+}
+/* about us page */
+#aboutUsText p {
+    color: #333333;
+    font-size: 1.10rem;
+}
+#aboutUsText {
+    padding: 20px;
+}
+
+/* Contact us CSS */
+#formContainer, #cardContainer {
+    padding: 50px 0px 50px 0px;
+}
