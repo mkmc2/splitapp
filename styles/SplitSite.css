@@ -33,9 +33,16 @@ i {
     border: solid rgba(255,255,255,.5) 1px;
     border-radius: 10px;
 }
-#loginButton:hover {
-    background-color:  rgba(255,255,255,1);
-    color: #343a40;
+@media (max-width: 768px) {
+    #loginButton {
+        border: none;
+    }
+}
+@media (min-width: 767px) {
+    #loginButton:hover {
+        background-color:  rgba(255,255,255,1);
+        color: #343a40;
+    }
 }
 #findBg {
     background-color: #f2f2f2;
@@ -87,7 +94,30 @@ i {
 #aboutUsText {
     padding: 20px;
 }
+#mathSymbol {
+    font-size: 2rem;
+}
+/* How it Works Section */
+/* #hiwSection {
+    background: #343a40;
+    color: white;
+}
+#charityDiv {
+    
+} */
+/* #aboutContainer, i {
+    color: #333333; */
 
+}
+/* #organizationIcon {
+    background-color: #6d1ed4;
+    border-radius: 100px;
+} */
+/* #aboutOrganizationCharity, i {
+    color: white;
+    background-color: #6d1ed4;
+    border-radius: 100%; */
+}
 /* Contact us CSS */
 #formContainer, #cardContainer {
     padding: 50px 0px 50px 0px;
