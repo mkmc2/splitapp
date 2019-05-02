@@ -123,26 +123,12 @@ i {
 #contentOverlay {
     z-index: 2;
 }
-/* How it Works Section */
-/* #hiwSection {
-    background: #343a40;
-    color: white;
+/* Who Starts Splits*/
+#whoStartsSplits {
+    background: #42f4a4;
+    color: #333333;
 }
-#charityDiv {
-    
-} */
-/* #aboutContainer, i {
-    color: #333333; */
 
-
-/* #organizationIcon {
-    background-color: #6d1ed4;
-    border-radius: 100px;
-} */
-/* #aboutOrganizationCharity, i {
-    color: white;
-    background-color: #6d1ed4;
-    border-radius: 100%; */
 
 /* Contact us CSS */
 #formContainer, #cardContainer {
