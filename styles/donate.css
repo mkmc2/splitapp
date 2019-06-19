@@ -1,0 +1,66 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #f9f9f9;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+}
+#jumbotron {
+    background-color: #6d1ed4;
+    width: 100%;
+    height: auto;
+}
+#jumbotron h1, h2, h3, h4, h5, p {
+    color: white;
+    padding-top: 15px;
+}
+#helpSlider {
+    background-color: white;
+    border-radius: 15px;
+    color: #6d1ed4;
+    background-size: 500px;
+}
+#helpSlider h1 {
+    color: #6d1ed4;
+    font-weight: 4rem;
+}
+/* Intro Section */
+#introSection {
+    background: rgb(245, 245, 245);
+}
+#introSection p, h1, h2, h3, h4 {
+    color: #333333;
+}
+
+.fas {
+    color: #6d1ed4;
+    font-size: 3rem;
+}
+/* Steps Setcion*/
+#stepsSection {
+    background: white;
+}
+
+/* Signup Section*/
+#signupUser {
+    background: #6d1ed4;
+}
+#signupCharity {
+    background: #333333;
+}
+#signupSection {
+    color: #ffffff;
+}
+/* Footer */
+#footerNav {
+    background-color: #f2f2f2;
+    color: #333333;
+    padding: 15px 0px 15px 0px;
+    margin-bottom: auto;
+}
+#footerContent {
+    color: #333333;
+}
+#copyright {
+    color: #111111;
+}
