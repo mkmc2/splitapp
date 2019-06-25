@@ -137,3 +137,11 @@ i {
 #formContainer, #cardContainer {
     padding: 50px 0px 50px 0px;
 }
+
+/* Split Page */
+#raffles {
+    background: #42f4a4;
+}
+#projects {
+    background: #6d1ed4;
+}
