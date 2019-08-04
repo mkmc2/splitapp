@@ -40,7 +40,15 @@ h1, h2, h3, h4, h5, h6 {
 #stepsSection {
     background: white;
 }
-
+#camoBg1 {
+    background: url("../images/camoBg1.png") center / cover no-repeat; 
+}
+#camoBg2 {
+    background: url("../images/camoBg2.png") center / cover no-repeat; 
+}
+#camoBg3 {
+    background: url("../images/squareBg.png") center / cover no-repeat; 
+}
 /* Signup Section*/
 #signupUser {
     background: #6d1ed4;

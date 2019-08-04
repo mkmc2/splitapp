@@ -53,7 +53,8 @@ i {
     padding: 15px 0px 15px 0px;
 }
 #winBg {
-    background-color: #333333;
+    background: url("../images/zigZag1.png") center / cover no-repeat; 
+    /* background-color: #333333; */
     text-align: center;
     padding: 15px 0px 15px 0px;
 }
