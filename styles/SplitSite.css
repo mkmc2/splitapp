@@ -53,13 +53,20 @@ i {
     padding: 15px 0px 15px 0px;
 }
 #winBg {
-    /* background: url("../images/zigZag1.png") center / cover no-repeat;  */
-    background-color: #333333;
+    background: url("../images/dotsBg2.png") center / cover no-repeat; 
+    /* background-color: #333333; */
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+#winBg2 {
+    background: url("../images/dotBg3.png") center / cover no-repeat; 
+    /* background-color: #333333; */
     text-align: center;
     padding: 15px 0px 15px 0px;
 }
 #openBg {
-    background-color: #42f4a4;
+    background: url("../images/dotsBg1.png") center / cover no-repeat; 
+    /* background-color: #42f4a4; */
     text-align: center;
     padding: 15px 0px 15px 0px;
 }
